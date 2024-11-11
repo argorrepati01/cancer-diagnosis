@@ -1,7 +1,7 @@
 ![cd_banner](https://github.com/user-attachments/assets/a2a26a21-ace0-4806-8123-66c0db9d5998)
 
 
-# Personalized Cancer Diagnosis
+# Multimodal Machine Learning based Cancer Diagnosis
 
 This project is inspired by the MSKCC Kaggle Competition, which aims to advance cancer diagnosis by distinguishing impactful mutations from neutral ones in tumor genetic profiles.
 Currently, interpreting genetic mutations involves a time-intensive manual process. Clinical pathologists must individually review and classify each mutation based on supporting evidence from clinical literature. The goal of this project is to build a machine-learning model that can classify genetic mutations based on clinical texts.
