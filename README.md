@@ -1,4 +1,6 @@
-![][https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news-medical.net%2Fnews%2F20241029%2FStudy-identifies-six-cancer-susceptibility-genes.aspx&psig=AOvVaw2ThIzAkkTAj14sVPZugWoJ&ust=1731394514020000&source=images&opi=89978449]
+![cd_banner](https://github.com/user-attachments/assets/a2a26a21-ace0-4806-8123-66c0db9d5998)
+
+
 # Personalized Cancer Diagnosis
 
 This project is inspired by the MSKCC Kaggle Competition, which aims to advance cancer diagnosis by distinguishing impactful mutations from neutral ones in tumor genetic profiles.
@@ -6,7 +8,7 @@ Currently, interpreting genetic mutations involves a time-intensive manual proce
 
 ## Objective
 
-- Build a multiclass classification model using Gene, Variant, and Text features that categorize into nine different classes.
+- Build a multiclass classification model using gene, variant, and text features.
 - Interpretability is important, to understand how the model is classifying.
 - Probability of a data point belonging to each class.
 - Low-error model, since errors are costly.
